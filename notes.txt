@@ -3,4 +3,4 @@ git add <file>
 git commit -m "your commit message"
 git reset --soft HEAD~1
 git reset --hart HEAD~1
-test heute 09.11.2026
+test heute 09.11.26
